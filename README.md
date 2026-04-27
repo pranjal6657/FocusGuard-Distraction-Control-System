@@ -25,18 +25,6 @@ If a distracting app is detected:
 
 ---
 
-## 📸 Screenshots
-
-### Menu
-![Menu](screenshots/menu.png)
-
-### Blocking Action
-![Blocking](screenshots/blocking.png)
-
-### Stats
-![Stats](screenshots/stats.png)
-
----
 
 ## 🛠️ Tech Stack
 
