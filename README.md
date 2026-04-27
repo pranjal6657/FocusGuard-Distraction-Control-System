@@ -10,7 +10,7 @@ FocusGuard is a real-time CLI-based productivity tool built in Go that automatic
 - 🚫 Automatic blocking of distractions
 - ⚡ Fast and lightweight (built in Go)
 - 📊 Focus time tracking and stats
-- ⚙️ Configurable blocked apps !
+- ⚙️ Configurable blocked apps 
 
 ---
 
